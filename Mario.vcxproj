@@ -134,6 +134,7 @@
     <ClCompile Include="GameScreenIntro.cpp" />
     <ClCompile Include="GameScreenLvl1.cpp" />
     <ClCompile Include="GameScreenLvl2.cpp" />
+    <ClCompile Include="GameScreenLvl3.cpp" />
     <ClCompile Include="GameScreenManager.cpp" />
     <ClCompile Include="GameScreenOver.cpp" />
     <ClCompile Include="Koopa.cpp" />
@@ -166,6 +167,7 @@
     <ClInclude Include="GameScreenIntro.h" />
     <ClInclude Include="GameScreenLvl1.h" />
     <ClInclude Include="GameScreenLvl2.h" />
+    <ClInclude Include="GameScreenLvl3.h" />
     <ClInclude Include="GameScreenManager.h" />
     <ClInclude Include="GameScreenOver.h" />
     <ClInclude Include="Koopa.h" />
