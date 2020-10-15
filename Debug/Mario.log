@@ -1,0 +1,54 @@
+﻿  BreakableBlock.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\BreakableBlock.cpp(36,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\BreakableBlock.cpp(36,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\BreakableBlock.cpp(44,67): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\BreakableBlock.cpp(44,39): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Character.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\Character.cpp(40,81): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Character.cpp(40,81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Character.cpp(40,115): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Character.cpp(40,115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Character.cpp(51,25): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Coin.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(18,26): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(32,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(32,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(32,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(32,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(32,95): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(32,95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(33,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(33,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(33,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Coin.cpp(33,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Collisions.cpp
+  GameScreen.cpp
+  GameScreenIntro.cpp
+  GameScreenLvl1.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\GameScreenLvl1.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\domda\Desktop\Github\Mario\Mario\GameScreenLvl1.cpp(202,24): warning C4018: '<': signed/unsigned mismatch
+  GameScreenLvl2.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\GameScreenLvl2.cpp(101,21): warning C4018: '<': signed/unsigned mismatch
+  GameScreenManager.cpp
+  GameScreenOver.cpp
+  Koopa.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\Koopa.cpp(77,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  LevelMap.cpp
+  Luigi.cpp
+  Mario.cpp
+  Mushroom.cpp
+  PowBlock.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\PowBlock.cpp(17,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\PowBlock.cpp(18,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SoundManager.cpp
+  SupriseBlock.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\SupriseBlock.cpp(36,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\SupriseBlock.cpp(36,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Texture2D.cpp
+C:\Users\domda\Desktop\Github\Mario\Mario\Texture2D.cpp(76,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Texture2D.cpp(76,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\domda\Desktop\Github\Mario\Mario\Texture2D.cpp(76,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\domda\Desktop\Github\Mario\Mario\Texture2D.cpp(76,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Main.cpp
+  Mario.vcxproj -> C:\Users\domda\Desktop\Github\Mario\Debug\Mario.exe
